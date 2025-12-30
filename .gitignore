@@ -1,0 +1,21 @@
+# Clarinet files
+**/*.db
+**/*.db.lock
+
+# Build artifacts
+allow_list.json
+check_checker.json
+deployments/
+
+# Dependencies
+.requirements/
+
+# Editor config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS config
+.DS_Store
+Thumbs.db
