@@ -1,0 +1,20 @@
+[network]
+name = "devnet"
+
+[devnet]
+name = "devnet"
+username = "devnet"
+password = "password"
+mnemonic = "sell invite acquire kitten bamboo drastic jelly vivid prefer convince student digital amaze extend visual budget rent royal prefer dizzy cost upper radical tiny"
+
+[accounts.deployer]
+mnemonic = "fetch outside black test wash cover just ignore knave wool puppy grid describe verify human mention vast board differ repeat taxi connect prevent ease"
+balance = 1000000000
+
+[accounts.wallet_1]
+mnemonic = "spoil sock coyote screen glory gaze enact orient trumpet drift reform sick awful glory entry check virus state assault grand check glad clean extend"
+balance = 1000000000
+
+[accounts.wallet_2]
+mnemonic = "arrange scale naive enable salt chase divorce crusade section young pink text inhale conduct earth misery tube develop unique flash shine holiday list estate"
+balance = 1000000000
